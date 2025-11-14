@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm <strong>Riya Patel</strong></h1>
 <h3 align="center">Java Developer | Backend Engineer | AI Explorer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+</p> -->
 
 ---
 
@@ -39,10 +39,9 @@
 
 ---
 
-## 💬 Ask Me About  
-- React (Basics), Node.js (Basics)  
-- Machine Learning & AI Integration  
-- Java, Spring Boot, REST APIs  
+## 💬 Ask Me About   
+- Java, Spring Boot, REST APIs
+- React 
 - Architecture for scalable applications
 
 ---
@@ -72,5 +71,5 @@ I’ll be writing about **AI, Spring Boot, System Design, and Full-Stack Develop
 
 ---
 
-## ⚡ Fun Fact  
-I love turning ideas into **beautiful, scalable, intelligent applications** powered by AI 🤖✨
+I love transforming ideas into **gentle, thoughtful, intelligent applications**  
+— built with elegance, empathy, and creativity ✨
