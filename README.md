@@ -62,8 +62,3 @@ Git · GitHub
 🔗 **[linkedin.com/in/riya-patel28](https://www.linkedin.com/in/riya-patel28/)**  
 💻 **[github.com/patelriya2806](https://github.com/patelriya2806/)**
 
----
-
-## ⚡ Fun Fact  
-I love turning ideas into **clean, scalable, intelligent applications**.
-
