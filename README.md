@@ -58,7 +58,7 @@ Git · GitHub
 ---
 
 ## 📫 Connect With Me  
-📧 **patelriya2806rbp23@gmail.com**  
+📧 **rbp23@gmail.com**  
 🔗 **[linkedin.com/in/riya-patel28](https://www.linkedin.com/in/riya-patel28/)**  
 💻 **[github.com/patelriya2806](https://github.com/patelriya2806/)**
 
