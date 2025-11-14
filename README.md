@@ -1,103 +1,69 @@
-🌟 Hi there, I'm Riya Patel 👋
-Aspiring Software Developer | Java & Spring Boot Enthusiast | AI Learner
+<h1 align="center">👋 Hey, I'm <strong>Riya Patel</strong></h1>
+<h3 align="center">Software Developer | Java Backend | AI Explorer</h3>
 
-🇮🇳 From India • Crafting meaningful digital experiences with clean code, logic, and creativity.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-🚀 About Me
+---
 
-Detail-oriented Software Developer skilled in Java, Spring Boot, MySQL, Full-Stack Web Development, and DSA.
-I enjoy building scalable applications, solving real-world problems, and exploring AI technologies to enhance user experience and automation.
+## 🚀 About Me  
+Detail-oriented **Java & Spring Boot Developer** passionate about building scalable backend systems and intelligent applications using AI.
 
-🔭 Current Work
+---
 
-Building Homie – A Smart LocalConnect Platform to solve daily service issues
+## 📌 Skills  
+**Languages:**  
+Java · JavaScript · Python · C  
 
-Enhancing GestuTalk – Sign Language to Text & Speech
+**Backend:**  
+Spring Boot · JDBC · REST APIs · MySQL  
 
-Continuously improving backend architecture & database performance
+**Web Tech:**  
+JSP · Servlets · HTML · CSS · Bootstrap  
 
-🌱 Currently Learning
+**Tools:**  
+Git · GitHub  
 
-Spring Boot (Advanced)
+---
 
-Generative AI & Prompt Engineering
+## 🛠 Projects  
+- 🤖 **GestuTalk** – Sign Language to Text/Speech (OpenCV + MediaPipe + TensorFlow)  
+- 📚 **Library Management System** – Java + MySQL  
+- 📝 **To-Do App** – JSP + Servlets + MVC  
+- 🏠 **Homie** – Smart Local Service Platform (Spring Boot)  
 
-RAG Models & Agentic AI
+---
 
-Clean Architecture for scalable backend systems
+## 🏆 Achievements & Certifications  
+- 🥇 **SAP Certified Associate – Back-End Developer (ABAP Cloud)**  
+- 🧠 IBM – Generative AI: Prompt Engineering  
+- 💡 Infosys – XML & Java  
 
-🤝 Looking to Collaborate On
+---
 
-Java, Spring Boot, and Backend APIs
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=patelriya2806&show_icons=true&theme=radical" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelriya2806&layout=compact&theme=radical" />
+</p>
 
-AI/ML + Real-time processing projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelriya2806&theme=radical" />
+</p>
 
-Full-Stack Web Development
+---
 
-Intelligent automation & AI integrations
+## 📫 Connect With Me  
+📧 **patelriya2806rbp23@gmail.com**  
+🔗 **linkedin.com/in/riya-patel28**  
+💻 **github.com/patelriya2806**
 
-👨‍💻 My Projects
+---
 
-Explore my work on GitHub:
-👉 https://github.com/patelriya2806
+## ⚡ Fun Fact  
+I love turning ideas into **clean, scalable, intelligent applications**.
 
-Some key projects include:
-
-GestuTalk – Real-time Sign Language Translator (OpenCV + MediaPipe + TensorFlow)
-
-Library Management System – Core Java + MySQL
-
-To-Do Web App – JSP + Servlets + MVC + MySQL
-
-Homie – Smart Local Service Platform (Java + Spring Boot)
-
-🏆 Certifications
-
-🎓 SAP Certified Associate – Back-End Developer (ABAP Cloud)
-
-🧠 Generative AI: Prompt Engineering Basics – IBM
-
-💡 XML & Java – Infosys Springboard
-
-💬 Ask Me About
-
-Java, Spring Boot, REST APIs
-
-SQL, MySQL, JDBC
-
-React & Frontend Basics
-
-Machine Learning Basics & AI Integration
-
-Clean Code & Scalable Architecture
-
-📫 Reach Me At
-
-📧 patelriya2806rbp23@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/riya-patel28/
-
-📱 +91 8140135450
-
-📄 Resume
-
-Here’s my detailed experience:
-👉 [Resume](attach your PDF link here in GitHub)
-
-⚡ Fun Fact
-
-I love turning complex problems into simple, elegant, and scalable solutions — powered by logic, design, and a hint of AI ✨🤖
-<!--
-**patelriya2806/patelriya2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
