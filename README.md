@@ -1,56 +1,92 @@
-<h1 align="center">✨ Hey, I'm <strong>Riya Patel</strong> ✨</h1>
-<h3 align="center">Software Developer • Java Enthusiast • AI Learner</h3>
+🌟 Hi there, I'm Riya Patel 👋
+Aspiring Software Developer | Java & Spring Boot Enthusiast | AI Learner
 
-<p align="center">
-🌿 Building beautiful logic.<br/>
-💻 Crafting meaningful software.<br/>
-💡 Learning & evolving every day.
-</p>
+🇮🇳 From India • Crafting meaningful digital experiences with clean code, logic, and creativity.
 
----
+🚀 About Me
 
-## 🌸 About Me  
-I'm a detail-oriented **Software Developer** passionate about Java, backend engineering, and intelligent applications.  
-I enjoy **clean architecture, efficient systems**, and bringing ideas to life through elegant code.
+Detail-oriented Software Developer skilled in Java, Spring Boot, MySQL, Full-Stack Web Development, and DSA.
+I enjoy building scalable applications, solving real-world problems, and exploring AI technologies to enhance user experience and automation.
 
----
+🔭 Current Work
 
-## 🌿 What I'm Doing Now  
-- 🌱 Learning **Spring Boot, RAG, Agentic AI, Generative AI**  
-- 🔭 Working on **Homie – Smart LocalConnect Platform**  
-- 🤖 Enhancing **GestuTalk – Sign Language Translator**  
-- 🧠 Practicing **DSA + System Design Basics**
+Building Homie – A Smart LocalConnect Platform to solve daily service issues
 
----
+Enhancing GestuTalk – Sign Language to Text & Speech
 
-## 🎨 Skills I Love Working With  
-- **Languages:** Java, JavaScript, Python, C  
-- **Backend:** Spring Boot, JDBC, MySQL  
-- **Web:** JSP, Servlets, HTML, CSS, Bootstrap  
-- **Tools:** Git, GitHub  
-- **Core:** OOP, DSA, MVC, DB Design
+Continuously improving backend architecture & database performance
 
----
+🌱 Currently Learning
 
-## 🌼 Projects I’m Proud Of  
-- ✨ **GestuTalk** – Real-time Sign Language to Speech (OpenCV + TensorFlow)  
-- 📚 **Library Management System** – Core Java + JDBC  
-- 📝 **To-Do Web App** – JSP + Servlets + MVC  
-- 🏠 **Homie** – Smart local service platform (Spring Boot)
+Spring Boot (Advanced)
 
----
+Generative AI & Prompt Engineering
 
-## 📬 Connect With Me  
-📧 **patelriya2806rbp23@gmail.com**  
-🔗 **linkedin.com/in/riya-patel28**  
-💻 **github.com/patelriya2806**
+RAG Models & Agentic AI
 
----
+Clean Architecture for scalable backend systems
 
-## 🌻 Fun Fact  
-I love turning complex problems into **simple, aesthetic, scalable solutions**.  
+🤝 Looking to Collaborate On
 
+Java, Spring Boot, and Backend APIs
 
+AI/ML + Real-time processing projects
+
+Full-Stack Web Development
+
+Intelligent automation & AI integrations
+
+👨‍💻 My Projects
+
+Explore my work on GitHub:
+👉 https://github.com/patelriya2806
+
+Some key projects include:
+
+GestuTalk – Real-time Sign Language Translator (OpenCV + MediaPipe + TensorFlow)
+
+Library Management System – Core Java + MySQL
+
+To-Do Web App – JSP + Servlets + MVC + MySQL
+
+Homie – Smart Local Service Platform (Java + Spring Boot)
+
+🏆 Certifications
+
+🎓 SAP Certified Associate – Back-End Developer (ABAP Cloud)
+
+🧠 Generative AI: Prompt Engineering Basics – IBM
+
+💡 XML & Java – Infosys Springboard
+
+💬 Ask Me About
+
+Java, Spring Boot, REST APIs
+
+SQL, MySQL, JDBC
+
+React & Frontend Basics
+
+Machine Learning Basics & AI Integration
+
+Clean Code & Scalable Architecture
+
+📫 Reach Me At
+
+📧 patelriya2806rbp23@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/riya-patel28/
+
+📱 +91 8140135450
+
+📄 Resume
+
+Here’s my detailed experience:
+👉 [Resume](attach your PDF link here in GitHub)
+
+⚡ Fun Fact
+
+I love turning complex problems into simple, elegant, and scalable solutions — powered by logic, design, and a hint of AI ✨🤖
 <!--
 **patelriya2806/patelriya2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
